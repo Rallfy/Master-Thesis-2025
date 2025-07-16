@@ -45,4 +45,11 @@ These features were selected for their predictive value, low redundancy, and ava
    ```bash
    conda env create -f env/environment.yml
    conda activate xhaul-thesis
+3. Open the Jupyter notebook and run all cells:
+   ```bash
+   jupyter notebook notebook/thesis_final_analysis.ipynb
+
+## License
+
+This project is licensed under the MIT License. See LICENSE for more information.
 
